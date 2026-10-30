@@ -12,3 +12,5 @@ android:label="Lab04 - Mariusz - 12345"
 
 android:configChanges="orientation|screenSize|screenLayout">
 // Pamiętaj aby usunąć > po "adjustResize" w linjce przed.
+
+/C:/PM/LAB04/app/src/main/res/mipmap-hdpi/
