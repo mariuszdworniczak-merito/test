@@ -1,3 +1,5 @@
+https://moodle2.e-wsb.pl/my/courses.php
+
 git config --global user.name "Mariusz Dworniczak"
 git config --global user.email "mariusz.dworniczak@wroclaw.merito.pl"
 git clone https://github.com/mariuszdworniczak-merito/PM-12345.git .
