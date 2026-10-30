@@ -1,2 +1,6 @@
-    <!-- 1. Deklaracja uprawnienia internetowego (umieszczona poza tagiem application) -->
-    <uses-permission android:name="android.permission.INTERNET" />
+git config --global user.name "Mariusz Dworniczak"
+git config --global user.email "mariusz.dworniczak@wroclaw.merito.pl"
+git clone https://github.com/mariuszdworniczak-merito/PM-12345.git .
+
+
+android:screenOrientation="sensor"> <!-- 2. Zarządzanie orientacją: sensor (obraca się) lub portrait (pionowo) -->
