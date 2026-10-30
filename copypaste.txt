@@ -3,4 +3,12 @@ git config --global user.email "mariusz.dworniczak@wroclaw.merito.pl"
 git clone https://github.com/mariuszdworniczak-merito/PM-12345.git .
 
 
-android:screenOrientation="sensor"> <!-- 2. Zarządzanie orientacją: sensor (obraca się) lub portrait (pionowo) -->
+LAB 04
+Krok 1:
+<!-- 1. Deklaracja uprawnienia internetowego (umieszczona przed tagiem application) -->
+<uses-permission android:name="android.permission.INTERNET" />
+
+android:label="Lab04 - Mariusz - 12345"
+
+android:configChanges="orientation|screenSize|screenLayout">
+
