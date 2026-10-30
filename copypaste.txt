@@ -11,4 +11,4 @@ Krok 1:
 android:label="Lab04 - Mariusz - 12345"
 
 android:configChanges="orientation|screenSize|screenLayout">
-
+// Pamiętaj aby usunąć > po "adjustResize" w linjce przed.
