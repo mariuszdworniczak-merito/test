@@ -1,0 +1,2 @@
+    <!-- 1. Deklaracja uprawnienia internetowego (umieszczona poza tagiem application) -->
+    <uses-permission android:name="android.permission.INTERNET" />
