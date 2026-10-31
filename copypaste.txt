@@ -1,9 +1,13 @@
 https://moodle2.e-wsb.pl/my/courses.php
 
+mkdir C:\PM
+cd C:\PM
+
 git config --global user.name "Mariusz Dworniczak"
 git config --global user.email "mariusz.dworniczak@wroclaw.merito.pl"
 git clone https://github.com/mariuszdworniczak-merito/PM-12345.git .
 
+mkdir LABxx
 
 LAB 04
 Krok 1:
